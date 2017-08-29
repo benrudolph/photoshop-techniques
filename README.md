@@ -2,6 +2,9 @@
 
 ##  Orton Glow
 
+![Without Orton Glow](https://raw.githubusercontent.com/benrudolph/photoshop-techniques/master/OrtonGlow/DSC_6755_no_glow.jpg)
+![With Orton Glow](https://raw.githubusercontent.com/benrudolph/photoshop-techniques/master/OrtonGlow/DSC_6755.jpg)
+
 *Summary*
 
 1. Copy image
