@@ -1,5 +1,7 @@
 # Photoshop Techniques
 
+This serves as a running list of useful editing techniques for using photoshop.
+
 ##  Orton Glow
 
 | Without Orton Glow | With Orton Glow |
