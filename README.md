@@ -59,9 +59,21 @@ Create better layer masks by using a Curves layer on the layer mask.
 1. Option + click layer mask
 2. `Cmd + M` to open Curves adjustment
 
-
 ## Copy current visible area
 
 Copy the current visible area into a new layer. Must have more than one layer.
 
 1. `Cmd + option + shift + e`
+
+## Color Overlay
+
+Use color overlay to change the color of an image
+
+![Without Orton Glow](https://raw.githubusercontent.com/benrudolph/photoshop-techniques/master/ColorOverlay/color_overlay.png)
+
+*Summary*
+
+1. Select layer
+2. Click *fx* button in layers panel
+3. Choose color overlay
+4. Select color
