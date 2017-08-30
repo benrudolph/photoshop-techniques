@@ -24,6 +24,10 @@ Create a glow effect in your photo.
 
 ## LAB Color
 
+| Without LAB Curves | With LAB Curves |
+|---|---|
+| ![Without Orton Glow](https://raw.githubusercontent.com/benrudolph/photoshop-techniques/master/LABColor/no_lab.jpg) | ![With Orton Glow](https://raw.githubusercontent.com/benrudolph/photoshop-techniques/master/LABColor/lab.jpg) |
+
 *Summary*
 
 1. Convert image to LAB mode (Image > Mode > LAB)
