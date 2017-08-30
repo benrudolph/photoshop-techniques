@@ -57,4 +57,11 @@ Create black and white photos using HSL adjustment layers.
 Create better layer masks by using a Curves layer on the layer mask.
 
 1. Option + click layer mask
-2. Cmd + M to open Curves adjustment
+2. `Cmd + M` to open Curves adjustment
+
+
+## Copy current visible area
+
+Copy the current visible area into a new layer. Must have more than one layer.
+
+1. `Cmd + option + shift + e`
